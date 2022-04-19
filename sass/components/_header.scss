@@ -1,5 +1,11 @@
 .header {
-  outline: 1px solid $colorOutline;
+  position: fixed;
+  top: 0;
+  background-color: aliceblue;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  width: 100%;
 }
 
 .header__container {
